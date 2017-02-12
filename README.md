@@ -7,3 +7,8 @@ int main(){
   return 0;
 }
 printf(“\nBRENDALÓPEZ\n”);
+#include<stdio.h>
+                  int main(){
+                        printf(“Este es mi segundo codigo”);
+                        printf("Lo logre”);
+                        
